@@ -1,8 +1,3 @@
-Note from James: I did this on a laptop, so it looks really bad on PC for now. I submitted it on the challenge site, and hopefully somebody tells me how to fix it so it
-looks okay on any screen. It does work for mobile, and it looks awkward a bit when it's transitioning to mobile from a laptop screen. Let me know how I can fix it!
-
-
-
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
