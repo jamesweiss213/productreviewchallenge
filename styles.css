@@ -194,9 +194,9 @@ body{
     .big-container{
       height:425px;
       max-width: fit-content;
-      margin-top:8%;
-      margin-left:34%;
-      width:30%;
+      margin-top:125px;
+      margin-left:350px;
+      width:580px;
       justify-content: center;
 
     }
